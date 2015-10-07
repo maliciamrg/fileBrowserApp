@@ -1,2 +1,12 @@
 node_modules
-Procfile
+Procfile# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+
